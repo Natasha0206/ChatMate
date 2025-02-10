@@ -32,7 +32,7 @@ This is a simple real-time chat application built using PHP, MySQL, and JavaScri
 - Send messages: Type your messages and click "Send."
 - Receive messages: Real-time updates will display incoming messages.
 
-- 
+### Images:
 ![Image](https://github.com/user-attachments/assets/87ab32f7-3792-491e-b444-7df4734cde7d)
 
 ![Image](https://github.com/user-attachments/assets/edff6c89-c971-43a6-a0e2-5b4888d9dd26)
