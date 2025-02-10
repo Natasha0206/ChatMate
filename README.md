@@ -1,6 +1,6 @@
 
 # ChatMate - An Chatting application
-This is a simple real-time chat application built using PHP, MySQL, and JavaScript (with AJAX).
+This is a simple real-time chat application built using PHP, MySQL, and JavaScript.
 
 ### Features:
 
