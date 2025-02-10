@@ -31,3 +31,5 @@ This is a simple real-time chat application built using PHP, MySQL, and JavaScri
 - Select a user: Choose a user from the list to start a chat.
 - Send messages: Type your messages and click "Send."
 - Receive messages: Real-time updates will display incoming messages.
+
+  
